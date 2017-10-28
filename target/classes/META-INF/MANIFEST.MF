@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vkoneri
+Class-Path: lib/unirest-java-1.4.9.jar lib/httpclient-4.5.2.jar lib/ht
+ tpcore-4.4.4.jar lib/commons-logging-1.2.jar lib/commons-codec-1.9.ja
+ r lib/httpasyncclient-4.1.1.jar lib/httpcore-nio-4.4.4.jar lib/httpmi
+ me-4.5.2.jar lib/json-20160212.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: com.deloitte.cc.job.App
+
